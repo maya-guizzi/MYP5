@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "MYP5"
+  site-url: "https://maya-guizzi.github.io/MYP5"
+  description: "this is"
+  repo-branch: main
+  repo-url: "https://github.com/maya-guizzi/MYP5"
